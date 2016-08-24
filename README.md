@@ -73,7 +73,7 @@ export default Html
 
 Copyright (c) 2016 Wanderio
 
-MIT - ttp://opensource.org/licenses/mit-license.php
+MIT - http://opensource.org/licenses/mit-license.php
 
 -----
 
