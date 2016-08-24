@@ -65,8 +65,8 @@ export default Html
 
 # Changelog
 
-1.0.3 - Updated README.md and package.json to improve NPM description 
-1.0.2 - Just fix some typos
+1.0.3 - Updated README.md and package.json to improve NPM description  
+1.0.2 - Just fix some typos  
 1.0.1 - Published scoped package on npm registry with additional rollup.js bundler and updated New Relic script
 
 # License
