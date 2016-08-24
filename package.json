@@ -1,6 +1,6 @@
 {
-  "name": "new-relic-react",
-  "version": "1.0.0",
+  "name": "@wanderio/new-relic-react",
+  "version": "1.0.1",
   "description": "",
   "main": "./lib/bundle.js",
   "dependencies": {
@@ -17,6 +17,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "Wanderio",
+  "license": "MIT"
 }
+
