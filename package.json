@@ -2,12 +2,18 @@
   "name": "new-relic-react",
   "version": "1.0.0",
   "description": "",
-  "main": "./lib/index.js",
+  "main": "./lib/bundle.js",
   "dependencies": {
     "react": "^0.14.8"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "babel-preset-es2015-rollup": "^1.2.0",
+    "babel-preset-react": "^6.11.1",
+    "rollup": "^0.34.10",
+    "rollup-plugin-babel": "^2.6.1"
+  },
   "scripts": {
+    "prepublish": "rollup -c",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
