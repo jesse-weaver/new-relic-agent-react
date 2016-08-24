@@ -1,8 +1,17 @@
 {
   "name": "@wanderio/new-relic-react",
-  "version": "1.0.1",
-  "description": "",
+  "version": "1.0.3",
+  "description": "New Relic - React integration plugin",
+  "author": "Wanderio",
+  "contributors": [{
+    "name": "Daniele Leoni",
+    "email": "daniele@wanderio.com"
+  }],
   "main": "./lib/bundle.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wanderio/new-relic-react"
+  },
   "dependencies": {
     "react": "^0.14.8"
   },
@@ -16,8 +25,13 @@
     "prepublish": "rollup -c",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "Wanderio",
+  "keywords": [
+    "react",
+    "new relic",
+    "monitoring",
+    "statistics",
+    "logger"
+  ],
   "license": "MIT"
 }
 

@@ -5,17 +5,14 @@ This one includes a recent version of New Relic Browser plugin to inject [JavaSc
 
 It includes also [rollup.js](http://rollupjs.org/) to bundle source code as React component.
 
-<br>
 # Getting Started
 
 `new-relic-react` can be installed as any other npm package.
 
-<br>
 # Installation
 
 `npm install @wanderio/new-relic-react --save`
 
-<br>
 # Application Structure
 ```
 .
@@ -28,7 +25,6 @@ It includes also [rollup.js](http://rollupjs.org/) to bundle source code as Reac
 └── README.md
 ```
 
-<br>
 # Usage
 
 Just import `NewRelic` into your component
@@ -40,7 +36,6 @@ Retrieve this information from your New Relic account
 ```<NewRelic licenseKey="{licenseKey}" applicationID="{applicationID}" />```  
 where licenseKey and applicationID are real IDs you retrieved
 
-<br>
 Following code is a super simple example of integration
 ```
 import React from 'react'
@@ -68,12 +63,12 @@ const Html = () => {
 export default Html
 ```
 
-<br>
 # Changelog
 
+1.0.3 - Updated README.md and package.json to improve NPM description 
+1.0.2 - Just fix some typos
 1.0.1 - Published scoped package on npm registry with additional rollup.js bundler and updated New Relic script
 
-<br>
 # License
 
 Copyright (c) 2016 Wanderio
