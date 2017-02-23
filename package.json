@@ -1,6 +1,6 @@
 {
   "name": "@wanderio/new-relic-react",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "New Relic - React integration plugin",
   "author": "Wanderio",
   "contributors": [{

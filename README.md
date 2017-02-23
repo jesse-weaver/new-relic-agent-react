@@ -65,6 +65,7 @@ export default Html
 
 # Changelog
 
+1.0.5 - Updated newrelic agent to js-agent.newrelic.com/nr-1016.min.js  
 1.0.4 - Updated newrelic agent to js-agent.newrelic.com/nr-974.min.js  
 1.0.3 - Updated README.md and package.json to improve NPM description  
 1.0.2 - Just fix some typos  
