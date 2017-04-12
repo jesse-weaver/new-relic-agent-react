@@ -12,7 +12,7 @@ It includes also [rollup.js](http://rollupjs.org/) to bundle source code as Reac
 
 # Installation
 
-`npm install @shutterstock/new-relic-react --save`
+`npm install @wanderio/new-relic-react --save`
 
 # Application Structure
 ```
@@ -66,7 +66,6 @@ export default Html
 
 # Changelog
 
-1.1.0 - Added new js to support Pro + SPA features.  Updated agent to js-agent.newrelic.com/nr-1026.min.js. Made react a peer dependency.
 1.0.5 - Updated newrelic agent to js-agent.newrelic.com/nr-1016.min.js  
 1.0.4 - Updated newrelic agent to js-agent.newrelic.com/nr-974.min.js  
 1.0.3 - Updated README.md and package.json to improve NPM description  
@@ -75,10 +74,10 @@ export default Html
 
 # License
 
-Copyright (c) 2017 Shutterstock
+Copyright (c) 2016 Wanderio
 
 MIT - http://opensource.org/licenses/mit-license.php
 
 -----
 
-based on https://github.com/wanderio/new-relic-react
+based on https://github.com/reggi/new-relic-react
