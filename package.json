@@ -1,19 +1,25 @@
 {
-  "name": "@wanderio/new-relic-react",
-  "version": "1.0.5",
+  "name": "@shutterstock/new-relic-react",
+  "version": "1.1.0",
   "description": "New Relic - React integration plugin",
   "author": "Wanderio",
-  "contributors": [{
-    "name": "Daniele Leoni",
-    "email": "daniele@wanderio.com"
-  }],
+  "contributors": [
+    {
+      "name": "Daniele Leoni",
+      "email": "daniele@wanderio.com"
+    },
+    {
+      "name": "Jesse Weaver",
+      "email": "jweaver@shutterstock.com"
+    }
+  ],
   "main": "./lib/bundle.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/wanderio/new-relic-react"
   },
-  "dependencies": {
-    "react": "^0.14.8"
+  "peerDependencies": {
+    "react": ">=0.14.8 < ^15.4.2"
   },
   "devDependencies": {
     "babel-preset-es2015-rollup": "^1.2.0",
