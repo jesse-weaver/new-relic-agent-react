@@ -1,8 +1,8 @@
 {
-  "name": "@shutterstock/new-relic-react",
+  "name": "new-relic-agent-react",
   "version": "2.0.0",
   "description": "New Relic - React integration plugin",
-  "author": "Wanderio",
+  "author": "Jesse Weaver",
   "contributors": [
     {
       "name": "Daniele Leoni",
@@ -16,7 +16,7 @@
   "main": "./lib/bundle.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/wanderio/new-relic-react"
+    "url": "https://github.com/jesse-weaver/new-relic-agent-react"
   },
   "peerDependencies": {
     "react": ">=0.14.8 < ^15.4.2"

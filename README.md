@@ -8,11 +8,11 @@ It includes also [rollup.js](http://rollupjs.org/) to bundle source code as Reac
 
 # Getting Started
 
-`new-relic-react` can be installed as any other npm package.
+`new-relic-agent-react` can be installed as any other npm package.
 
 # Installation
 
-`npm install @shutterstock/new-relic-react --save`
+`npm install --save new-relic-agent-react`
 
 # Application Structure
 ```
@@ -40,7 +40,7 @@ where licenseKey and applicationID are real IDs you retrieved
 Following code is a super simple example of integration
 ```
 import React from 'react'
-import NewRelic from 'new-relic-react'
+import NewRelic from 'new-relic-agent-react'
 
 const Html = () => {
   return (
