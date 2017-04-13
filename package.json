@@ -1,6 +1,6 @@
 {
   "name": "new-relic-agent-react",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "New Relic - React integration plugin",
   "author": "Jesse Weaver",
   "contributors": [
