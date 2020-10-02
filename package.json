@@ -11,6 +11,10 @@
     {
       "name": "Jesse Weaver",
       "email": "jweaver@shutterstock.com"
+    },
+    {
+      "name": "Adedayo Moshood",
+      "email": "dharyour93@yahoo.com"
     }
   ],
   "main": "./lib/bundle.js",
